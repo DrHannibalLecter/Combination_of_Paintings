@@ -1,0 +1,18 @@
+There are n white squares arranged in a row. We want to paint some of them black to have an even number of black squares among every consecutive m squares. How many different ways can we paint'em? As the answer might be huge, calculate it modulo 10^3+7.
+
+Input Format
+The only line contains two integers n and m.
+
+Output Format
+Print the number of different proper paintings.
+
+Constraints
+1≤m≤n≤10^5
+
+Author brkdnmz
+Source AP'22-23 Fall Qual
+Difficulty 4
+
+Algoleague Question
+
+https://algoleague.com/problem/paint-them-black/detail
